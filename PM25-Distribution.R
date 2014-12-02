@@ -1,6 +1,7 @@
 # Histogram from city-level WHO PM2.5 pollution 
-# Fork from Project : Tables and Plots for Spring/2014/EPW Paper
-# Author: Anish Sugathan
+# From project : Spring/2014/EPW Paper
+# Author: Anish Sugathan | Email: anish.iimb@gmail.com
+#
 
 require("ggplot2")
 require("gridExtra")
